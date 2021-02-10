@@ -1,2 +1,2 @@
 # project1
-data science 
+score prediction task
